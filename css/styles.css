@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+header{
+    padding:20px;
+}
+
+.caja-img{
+    display:flex;
+   justify-content: center;
+    background: crimson;
+    width:20%;
+    padding:50px;
+    margin-left: 20%;
+
+
+}
+    .caja-img img{
+        width:100%;
+    }
